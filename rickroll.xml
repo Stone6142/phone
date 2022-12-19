@@ -1,4 +1,4 @@
 <Response>
-  <Say voice="alice">Thanks for Calling Skylers Bot</Say>
+  <Say voice="alice">Thanks for trying our sky bot. Enjoy!</Say>
   <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
